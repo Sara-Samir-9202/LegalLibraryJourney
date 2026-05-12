@@ -47,6 +47,7 @@ The API is fully documented using **Swagger / OpenAPI**, allowing for easy explo
 
 Swagger UI Preview: 
 https://mizan-legallibrary.runasp.net/swagger/index.html
+API Documentation : https://sarasamir9202-6231158.postman.co/workspace
 
 <img width="922" height="896" alt="image" src="https://github.com/user-attachments/assets/2ae2f165-e638-4ea4-ae91-b55888e49517" />
 
