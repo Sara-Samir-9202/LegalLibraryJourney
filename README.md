@@ -46,6 +46,8 @@ The solution is neatly organized into three primary layers, reflecting the archi
 The API is fully documented using **Swagger / OpenAPI**, allowing for easy exploration and testing of all endpoints directly from the browser.
 
 [Swagger UI Preview]
+https://mizan-legallibrary.runasp.net/swagger/index.html
+
 <img width="922" height="896" alt="image" src="https://github.com/user-attachments/assets/2ae2f165-e638-4ea4-ae91-b55888e49517" />
 
 
